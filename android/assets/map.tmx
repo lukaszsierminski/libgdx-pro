@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="100" height="100" tilewidth="16" tileheight="16" backgroundcolor="#b0e0f8">
+ <tileset firstgid="1" name="sma4_tiles_new" tilewidth="16" tileheight="16" spacing="2">
+  <image source="../../../Downloads/sma4_tiles_new.jpg" trans="b0e0f8" width="977" height="448"/>
+  <terraintypes>
+   <terrain name="New Terrain" tile="-1"/>
+  </terraintypes>
+  <tile id="885">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="886">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="887">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="939">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="940">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="941">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1tFNwzAUBVCXbAHsAWMAewB/Lfvw27IIDIW/qshKbMexIFLOkZ4UNU5qv+smDQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANirh0MIj4f/nsV+pf1/jcdv8riq3Z+3Qwh3se6H8rnxPdNzaf8/4/G7PK7m9mea01Ps53Osl4k80nPje6bncv3PZd4yrve1ve/3Hesn+WyuP2ueI617Ppd5y7iWa5f2d81cDrFHN5V9Sns6N8/a593UuNK1Le/6tft/TX97Kq19bp61v6OpcaVrW36jW+nnWq3Pp9pn09S40rV7ftfvee0AwLYc4//c06g+Nvq/9zTkK533sbCmdN1LxvWu8fee4/FlVF8bzeMy5Cud97mwpnTdS8b1rvH31uRRs0dy+7NHyWPZnHL9+IuShzzkIQ95yEMe8pDHsvoFZYzzzQ==
+  </data>
+ </layer>
+</map>
