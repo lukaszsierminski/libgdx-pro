@@ -25,8 +25,7 @@ public class GdxGame extends Game {
 
 	@Override
 	public void create () {
-        world = new World();
-        setScreen(world);
+        setScreen(new GameScreen());
     }
 
     @Override

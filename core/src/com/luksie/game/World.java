@@ -82,7 +82,7 @@ public class World implements Screen{
 
         level.addActor(jumpButton);
         level.addActor(fireButton);
-        level.addActor(player);
+//        level.addActor(player);
         Gdx.input.setInputProcessor(level);
     }
 
@@ -105,7 +105,7 @@ public class World implements Screen{
         camera.update();
         spriteBatch.setProjectionMatrix(camera.combined);
         spriteBatch.begin();
-        player.draw(spriteBatch, delta);
+//        player.draw(spriteBatch, delta);
         level.draw();
         spriteBatch.end();
     }
